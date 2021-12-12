@@ -1,2 +1,2 @@
 "# Logo-IMC" 
-Just another shit to test js
+Just another thing to test js
